@@ -8,7 +8,7 @@ When one of the players encounteres with the enemy in the gameboard the two armi
 Age of Yokai takes place into the Sengoku era of Japan and the Japanese mythology where demons take advantage of the hard situation of Japan when war taking place in every corner of Japan, Now humans have to face with a new foe, the Yokai army.
 
 
- Age of Yokai is a 2D based turn strategy game developed by Aviv Peretes and by Ilan Yadgarov in Unity2D and Visual Studio (C#) Environment for our graduation project for Software Engineering study.
+ Age of Yokai is a 2D based turn strategy game developed by Aviv Perets and by Ilan Yadgarov in Unity2D and Visual Studio (C#) Environment for our graduation project for Software Engineering study.
 
 We are pleased to introduce to you our creation, the gameplay came to represent the idea of the game and his most functionality but not his final stat.
 
